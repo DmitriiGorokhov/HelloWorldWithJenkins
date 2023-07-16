@@ -1,0 +1,3 @@
+com\gorokhov\config\MyDispatcherServletInitializer.class
+com\gorokhov\config\Config.class
+com\gorokhov\controllers\HelloController.class
